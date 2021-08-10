@@ -48,7 +48,7 @@
 ## Misc
 
 * [Troubleshooting Workflow for Kubernetes](troubleshooting-kubernetes.pdf)
-* [Kubernetes Documentation Bookmarks](k8s-bookmarks.html)
+* [Kubernetes Documentation Bookmarks](k8s-bookmarks.html) - Save and import bookmarks via Bookmark Manager or whatever your browser uses
 
 ## Random Sysadmin/SRE/AWS links
 
