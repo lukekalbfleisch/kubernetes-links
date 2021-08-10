@@ -5,7 +5,7 @@
 * [Kubernetes in Docker: kind](https://kind.sigs.k8s.io/) - Run Kubernetes components via Docker
 * [Stripped down Kubernetes: k3s](https://k3s.io) - this is what I run at home
 * [Awesome Kubernetes@Home](https://github.com/k8s-at-home/awesome-home-kubernetes) - A list of resources for running Kubernetes at home
-* [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/) - kubeadm is used * to spin up and manage clusters
+* [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/) - kubeadm is used to spin up and manage clusters
 
 ## Tools && Guides
 
@@ -44,6 +44,11 @@
 * [Octant](https://octant.dev/)
 * [k9s](https://k9scli.io/)
 * [Rancher](https://rancher.com/products/rancher/)
+
+## Misc
+
+* [Troubleshooting Workflow for Kubernetes](troubleshooting-kubernetes.pdf)
+* [Kubernetes Documentation Bookmarks](k8s-bookmarks.html)
 
 ## Random Sysadmin/SRE/AWS links
 
